@@ -1,0 +1,2 @@
+# LunchMeter
+Calculates food :)
