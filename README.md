@@ -18,6 +18,6 @@ Units are places where people eat. It can have recipes and hold how many people 
 
 Are a monthly schedule of which recipes will be prepared by each day per unit. A day can have more than 1 recipe. While building the menu we only should select per unit recipes or general recipes.
 
-### Canculating purchases reports ###
+### Calculating purchases reports ###
 
 Based on which recipes and how many people per unit per time schedule (default 1 week) the software should calculate the ingredients' quantities needed and inform that as report.  
